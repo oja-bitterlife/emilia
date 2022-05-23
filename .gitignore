@@ -1,2 +1,5 @@
 ref/
 *.blend1
+*.fbx
+*.glb
+*.spp
