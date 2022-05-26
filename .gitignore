@@ -3,3 +3,4 @@ ref/
 *.fbx
 *.glb
 *.spp
+*.painter_lock
