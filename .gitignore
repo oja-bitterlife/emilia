@@ -4,3 +4,5 @@ ref/
 *.glb
 *.spp
 *.painter_lock
+tmp.*
+uv.png
