@@ -1,4 +1,5 @@
 ref/
+backup/
 *.blend1
 *.fbx
 *.glb
