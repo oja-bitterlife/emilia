@@ -6,4 +6,6 @@ backup/
 *.spp
 *.painter_lock
 tmp.*
+*.fsback
+*.fsvue
 uv.png
