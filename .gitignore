@@ -8,4 +8,6 @@ backup/
 tmp.*
 *.fsback
 *.fsvue
+*.mp4
+*.avi
 uv.png
