@@ -10,4 +10,5 @@ tmp.*
 *.fsvue
 *.mp4
 *.avi
+*~
 uv.png
