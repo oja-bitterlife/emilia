@@ -6,8 +6,7 @@ backup/
 *.spp
 *.painter_lock
 tmp.*
-*.fsback
-*.fsvue
+*.fsbak
 *.mp4
 *.avi
 *~
