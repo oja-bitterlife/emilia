@@ -10,4 +10,5 @@ tmp.*
 *.mp4
 *.avi
 *~
+*.tpc
 uv.png
